@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){console.log("DOM ready!!");var e=new ch.Carousel(document.getElementById("moreLikeThisCarousel"));e.on("ready",function(){console.log("carousel working!!")})});
